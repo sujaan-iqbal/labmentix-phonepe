@@ -1,0 +1,841 @@
+category,level,region,year,quarter,registered_users
+user,state,maharashtra,2018,1,6106994
+user,state,uttar pradesh,2018,1,4694250
+user,state,karnataka,2018,1,3717763
+user,state,andhra pradesh,2018,1,3336450
+user,state,telangana,2018,1,3315560
+user,state,rajasthan,2018,1,3158202
+user,state,gujarat,2018,1,2690048
+user,state,west bengal,2018,1,2604789
+user,state,madhya pradesh,2018,1,2553603
+user,state,bihar,2018,1,2133804
+user,district,bengaluru urban,2018,1,1922368
+user,district,pune,2018,1,1211643
+user,district,jaipur,2018,1,900773
+user,district,mumbai suburban,2018,1,719300
+user,district,hyderabad,2018,1,655175
+user,district,rangareddy,2018,1,635175
+user,district,thane,2018,1,631864
+user,district,ahmadabad,2018,1,572811
+user,district,medchal malkajgiri,2018,1,549429
+user,district,visakhapatnam,2018,1,497187
+user,pincode,201301,2018,1,114625
+user,pincode,500072,2018,1,105012
+user,pincode,560068,2018,1,98487
+user,pincode,110059,2018,1,95496
+user,pincode,110092,2018,1,83600
+user,pincode,122001,2018,1,82656
+user,pincode,560037,2018,1,75304
+user,pincode,395006,2018,1,72275
+user,pincode,800001,2018,1,71092
+user,pincode,302012,2018,1,68098
+user,state,maharashtra,2018,2,8222371
+user,state,uttar pradesh,2018,2,6442554
+user,state,karnataka,2018,2,5030665
+user,state,andhra pradesh,2018,2,4402540
+user,state,telangana,2018,2,4260115
+user,state,rajasthan,2018,2,4212964
+user,state,west bengal,2018,2,3833795
+user,state,gujarat,2018,2,3565825
+user,state,madhya pradesh,2018,2,3441662
+user,state,bihar,2018,2,3005872
+user,district,bengaluru urban,2018,2,2553312
+user,district,pune,2018,2,1592293
+user,district,jaipur,2018,2,1182983
+user,district,mumbai suburban,2018,2,957633
+user,district,thane,2018,2,861292
+user,district,hyderabad,2018,2,842483
+user,district,rangareddy,2018,2,804959
+user,district,ahmadabad,2018,2,751746
+user,district,medchal malkajgiri,2018,2,696211
+user,district,surat,2018,2,652372
+user,pincode,201301,2018,2,151073
+user,pincode,500072,2018,2,129543
+user,pincode,560068,2018,2,128921
+user,pincode,110059,2018,2,124901
+user,pincode,110092,2018,2,108175
+user,pincode,122001,2018,2,107275
+user,pincode,800001,2018,2,94711
+user,pincode,395006,2018,2,94500
+user,pincode,560037,2018,2,93771
+user,pincode,302012,2018,2,89071
+user,state,maharashtra,2018,3,10435033
+user,state,uttar pradesh,2018,3,8096483
+user,state,karnataka,2018,3,6372649
+user,state,andhra pradesh,2018,3,5427617
+user,state,rajasthan,2018,3,5175453
+user,state,telangana,2018,3,5138501
+user,state,west bengal,2018,3,4851740
+user,state,gujarat,2018,3,4433183
+user,state,madhya pradesh,2018,3,4309309
+user,state,tamil nadu,2018,3,3900177
+user,district,bengaluru urban,2018,3,3167597
+user,district,pune,2018,3,1974138
+user,district,jaipur,2018,3,1438305
+user,district,mumbai suburban,2018,3,1218632
+user,district,thane,2018,3,1104206
+user,district,hyderabad,2018,3,1024241
+user,district,rangareddy,2018,3,963186
+user,district,ahmadabad,2018,3,919252
+user,district,medchal malkajgiri,2018,3,828425
+user,district,surat,2018,3,808005
+user,pincode,201301,2018,3,188664
+user,pincode,110059,2018,3,156028
+user,pincode,500072,2018,3,152034
+user,pincode,560068,2018,3,151862
+user,pincode,110092,2018,3,136676
+user,pincode,122001,2018,3,130847
+user,pincode,395006,2018,3,113391
+user,pincode,302012,2018,3,107088
+user,pincode,560037,2018,3,106572
+user,pincode,800001,2018,3,106255
+user,state,maharashtra,2018,4,13381602
+user,state,uttar pradesh,2018,4,10341964
+user,state,karnataka,2018,4,8315802
+user,state,andhra pradesh,2018,4,6857409
+user,state,telangana,2018,4,6529679
+user,state,rajasthan,2018,4,6358738
+user,state,west bengal,2018,4,6279278
+user,state,gujarat,2018,4,5579040
+user,state,madhya pradesh,2018,4,5365442
+user,state,tamil nadu,2018,4,5199878
+user,district,bengaluru urban,2018,4,4126734
+user,district,pune,2018,4,2498852
+user,district,jaipur,2018,4,1733893
+user,district,mumbai suburban,2018,4,1578487
+user,district,thane,2018,4,1473811
+user,district,hyderabad,2018,4,1336872
+user,district,rangareddy,2018,4,1217664
+user,district,ahmadabad,2018,4,1212636
+user,district,medchal malkajgiri,2018,4,1056739
+user,district,surat,2018,4,998807
+user,pincode,201301,2018,4,250205
+user,pincode,110059,2018,4,206537
+user,pincode,560068,2018,4,201605
+user,pincode,110092,2018,4,177133
+user,pincode,500072,2018,4,175163
+user,pincode,122001,2018,4,163556
+user,pincode,560037,2018,4,137280
+user,pincode,800001,2018,4,134254
+user,pincode,110086,2018,4,133412
+user,pincode,110085,2018,4,132600
+user,state,maharashtra,2019,1,16284451
+user,state,uttar pradesh,2019,1,12458661
+user,state,karnataka,2019,1,10266174
+user,state,andhra pradesh,2019,1,8283019
+user,state,telangana,2019,1,7963425
+user,state,rajasthan,2019,1,7712204
+user,state,west bengal,2019,1,7449425
+user,state,gujarat,2019,1,6652536
+user,state,madhya pradesh,2019,1,6414403
+user,state,tamil nadu,2019,1,6296303
+user,district,bengaluru urban,2019,1,5003207
+user,district,pune,2019,1,3038402
+user,district,jaipur,2019,1,2060175
+user,district,mumbai suburban,2019,1,1901210
+user,district,thane,2019,1,1834051
+user,district,hyderabad,2019,1,1638436
+user,district,rangareddy,2019,1,1470874
+user,district,ahmadabad,2019,1,1450100
+user,district,medchal malkajgiri,2019,1,1279531
+user,district,surat,2019,1,1180819
+user,pincode,201301,2019,1,301260
+user,pincode,110059,2019,1,246566
+user,pincode,560068,2019,1,237280
+user,pincode,500072,2019,1,221180
+user,pincode,110092,2019,1,206805
+user,pincode,122001,2019,1,194366
+user,pincode,110086,2019,1,158267
+user,pincode,560078,2019,1,157977
+user,pincode,395006,2019,1,157558
+user,pincode,560076,2019,1,157367
+user,state,maharashtra,2019,2,18776975
+user,state,uttar pradesh,2019,2,14316349
+user,state,karnataka,2019,2,11968087
+user,state,andhra pradesh,2019,2,9389003
+user,state,telangana,2019,2,9046007
+user,state,rajasthan,2019,2,8783935
+user,state,west bengal,2019,2,8612795
+user,state,gujarat,2019,2,7574645
+user,state,tamil nadu,2019,2,7429609
+user,state,madhya pradesh,2019,2,7301172
+user,district,bengaluru urban,2019,2,5694165
+user,district,pune,2019,2,3514081
+user,district,jaipur,2019,2,2290462
+user,district,mumbai suburban,2019,2,2151657
+user,district,thane,2019,2,2118406
+user,district,hyderabad,2019,2,1856926
+user,district,ahmadabad,2019,2,1656341
+user,district,rangareddy,2019,2,1651300
+user,district,medchal malkajgiri,2019,2,1428880
+user,district,surat,2019,2,1338584
+user,pincode,201301,2019,2,336709
+user,pincode,110059,2019,2,274593
+user,pincode,560068,2019,2,263531
+user,pincode,500072,2019,2,242007
+user,pincode,110092,2019,2,228546
+user,pincode,122001,2019,2,217913
+user,pincode,421302,2019,2,182371
+user,pincode,395006,2019,2,180042
+user,pincode,560078,2019,2,178837
+user,pincode,110086,2019,2,177199
+user,state,maharashtra,2019,3,21313081
+user,state,uttar pradesh,2019,3,16044607
+user,state,karnataka,2019,3,13635075
+user,state,andhra pradesh,2019,3,10458693
+user,state,telangana,2019,3,10090557
+user,state,rajasthan,2019,3,9797304
+user,state,west bengal,2019,3,9643222
+user,state,gujarat,2019,3,8429299
+user,state,tamil nadu,2019,3,8428835
+user,state,madhya pradesh,2019,3,8180664
+user,district,bengaluru urban,2019,3,6383771
+user,district,pune,2019,3,4004991
+user,district,jaipur,2019,3,2520933
+user,district,mumbai suburban,2019,3,2407754
+user,district,thane,2019,3,2396815
+user,district,hyderabad,2019,3,2071673
+user,district,ahmadabad,2019,3,1848860
+user,district,rangareddy,2019,3,1826019
+user,district,medchal malkajgiri,2019,3,1572320
+user,district,surat,2019,3,1481391
+user,pincode,201301,2019,3,369425
+user,pincode,110059,2019,3,300007
+user,pincode,560068,2019,3,289417
+user,pincode,500072,2019,3,261019
+user,pincode,110092,2019,3,248727
+user,pincode,122001,2019,3,239679
+user,pincode,421302,2019,3,208109
+user,pincode,395006,2019,3,198132
+user,pincode,110086,2019,3,194575
+user,pincode,800001,2019,3,194197
+user,state,maharashtra,2019,4,23745297
+user,state,uttar pradesh,2019,4,17949542
+user,state,karnataka,2019,4,15385416
+user,state,andhra pradesh,2019,4,11757883
+user,state,telangana,2019,4,11220691
+user,state,rajasthan,2019,4,10925031
+user,state,west bengal,2019,4,10885058
+user,state,tamil nadu,2019,4,9620493
+user,state,gujarat,2019,4,9323799
+user,state,madhya pradesh,2019,4,9165241
+user,district,bengaluru urban,2019,4,7016836
+user,district,pune,2019,4,4416899
+user,district,jaipur,2019,4,2746860
+user,district,thane,2019,4,2638051
+user,district,mumbai suburban,2019,4,2630360
+user,district,hyderabad,2019,4,2283903
+user,district,ahmadabad,2019,4,2015947
+user,district,rangareddy,2019,4,2001437
+user,district,medchal malkajgiri,2019,4,1714832
+user,district,north twenty four parganas,2019,4,1638605
+user,pincode,201301,2019,4,398548
+user,pincode,110059,2019,4,320535
+user,pincode,560068,2019,4,313673
+user,pincode,500072,2019,4,279498
+user,pincode,110092,2019,4,264380
+user,pincode,122001,2019,4,258880
+user,pincode,421302,2019,4,243170
+user,pincode,560078,2019,4,218317
+user,pincode,395006,2019,4,214322
+user,pincode,560076,2019,4,211683
+user,state,maharashtra,2020,1,26168390
+user,state,uttar pradesh,2020,1,20136256
+user,state,karnataka,2020,1,17016980
+user,state,andhra pradesh,2020,1,13022060
+user,state,telangana,2020,1,12306860
+user,state,rajasthan,2020,1,12142053
+user,state,west bengal,2020,1,11960822
+user,state,tamil nadu,2020,1,10872368
+user,state,gujarat,2020,1,10259843
+user,state,madhya pradesh,2020,1,10151371
+user,district,bengaluru urban,2020,1,7564577
+user,district,pune,2020,1,4802397
+user,district,jaipur,2020,1,2966508
+user,district,thane,2020,1,2878073
+user,district,mumbai suburban,2020,1,2843378
+user,district,hyderabad,2020,1,2483843
+user,district,ahmadabad,2020,1,2185983
+user,district,rangareddy,2020,1,2166829
+user,district,medchal malkajgiri,2020,1,1845599
+user,district,north twenty four parganas,2020,1,1789973
+user,pincode,201301,2020,1,425915
+user,pincode,110059,2020,1,342152
+user,pincode,560068,2020,1,334481
+user,pincode,500072,2020,1,296003
+user,pincode,110092,2020,1,280039
+user,pincode,122001,2020,1,277400
+user,pincode,421302,2020,1,270275
+user,pincode,560078,2020,1,234102
+user,pincode,395006,2020,1,230047
+user,pincode,110086,2020,1,226703
+user,state,maharashtra,2020,2,28765086
+user,state,uttar pradesh,2020,2,22498519
+user,state,karnataka,2020,2,18655366
+user,state,andhra pradesh,2020,2,14319675
+user,state,rajasthan,2020,2,13563201
+user,state,telangana,2020,2,13378191
+user,state,west bengal,2020,2,13222022
+user,state,tamil nadu,2020,2,12150786
+user,state,gujarat,2020,2,11392657
+user,state,madhya pradesh,2020,2,11374423
+user,district,bengaluru urban,2020,2,8028070
+user,district,pune,2020,2,5144688
+user,district,jaipur,2020,2,3182014
+user,district,thane,2020,2,3135101
+user,district,mumbai suburban,2020,2,3060916
+user,district,hyderabad,2020,2,2653534
+user,district,ahmadabad,2020,2,2384154
+user,district,rangareddy,2020,2,2313748
+user,district,north twenty four parganas,2020,2,1966125
+user,district,medchal malkajgiri,2020,2,1963353
+user,pincode,201301,2020,2,445271
+user,pincode,110059,2020,2,365614
+user,pincode,560068,2020,2,351484
+user,pincode,500072,2020,2,309469
+user,pincode,421302,2020,2,298762
+user,pincode,110092,2020,2,295000
+user,pincode,122001,2020,2,293479
+user,pincode,560078,2020,2,247869
+user,pincode,110086,2020,2,246312
+user,pincode,395006,2020,2,245129
+user,state,maharashtra,2020,3,31409513
+user,state,uttar pradesh,2020,3,24838116
+user,state,karnataka,2020,3,20487550
+user,state,andhra pradesh,2020,3,15692405
+user,state,rajasthan,2020,3,14969412
+user,state,telangana,2020,3,14590882
+user,state,west bengal,2020,3,14448366
+user,state,tamil nadu,2020,3,13643451
+user,state,madhya pradesh,2020,3,12564224
+user,state,gujarat,2020,3,12467847
+user,district,bengaluru urban,2020,3,8611452
+user,district,pune,2020,3,5546002
+user,district,jaipur,2020,3,3433167
+user,district,thane,2020,3,3401853
+user,district,mumbai suburban,2020,3,3304696
+user,district,hyderabad,2020,3,2875965
+user,district,ahmadabad,2020,3,2580178
+user,district,rangareddy,2020,3,2495699
+user,district,north twenty four parganas,2020,3,2143943
+user,district,medchal malkajgiri,2020,3,2111567
+user,pincode,201301,2020,3,472490
+user,pincode,110059,2020,3,393571
+user,pincode,560068,2020,3,373446
+user,pincode,421302,2020,3,328833
+user,pincode,500072,2020,3,328018
+user,pincode,110092,2020,3,314384
+user,pincode,122001,2020,3,314031
+user,pincode,110086,2020,3,267186
+user,pincode,560078,2020,3,265627
+user,pincode,121004,2020,3,261230
+user,state,maharashtra,2020,4,34432631
+user,state,uttar pradesh,2020,4,27249134
+user,state,karnataka,2020,4,22400182
+user,state,andhra pradesh,2020,4,17076565
+user,state,rajasthan,2020,4,16329494
+user,state,telangana,2020,4,15927797
+user,state,west bengal,2020,4,15662093
+user,state,tamil nadu,2020,4,15357586
+user,state,madhya pradesh,2020,4,13737947
+user,state,gujarat,2020,4,13605203
+user,district,bengaluru urban,2020,4,9286243
+user,district,pune,2020,4,6033615
+user,district,thane,2020,4,3727358
+user,district,jaipur,2020,4,3679874
+user,district,mumbai suburban,2020,4,3609970
+user,district,hyderabad,2020,4,3142385
+user,district,ahmadabad,2020,4,2787991
+user,district,rangareddy,2020,4,2704868
+user,district,north twenty four parganas,2020,4,2321888
+user,district,medchal malkajgiri,2020,4,2282695
+user,pincode,201301,2020,4,504506
+user,pincode,110059,2020,4,423149
+user,pincode,560068,2020,4,399638
+user,pincode,421302,2020,4,365506
+user,pincode,500072,2020,4,350832
+user,pincode,122001,2020,4,336803
+user,pincode,110092,2020,4,335783
+user,pincode,110086,2020,4,288308
+user,pincode,560078,2020,4,285544
+user,pincode,121004,2020,4,283882
+user,state,maharashtra,2021,1,37077537
+user,state,uttar pradesh,2021,1,29482075
+user,state,karnataka,2021,1,24095832
+user,state,andhra pradesh,2021,1,18363733
+user,state,rajasthan,2021,1,17661088
+user,state,telangana,2021,1,17149069
+user,state,west bengal,2021,1,16808799
+user,state,tamil nadu,2021,1,16632608
+user,state,madhya pradesh,2021,1,14839427
+user,state,gujarat,2021,1,14670126
+user,district,bengaluru urban,2021,1,9955387
+user,district,pune,2021,1,6481971
+user,district,thane,2021,1,4014464
+user,district,jaipur,2021,1,3951866
+user,district,mumbai suburban,2021,1,3886500
+user,district,hyderabad,2021,1,3379663
+user,district,ahmadabad,2021,1,2999575
+user,district,rangareddy,2021,1,2906635
+user,district,north twenty four parganas,2021,1,2491076
+user,district,surat,2021,1,2458596
+user,pincode,201301,2021,1,541127
+user,pincode,110059,2021,1,454201
+user,pincode,560068,2021,1,427525
+user,pincode,421302,2021,1,396179
+user,pincode,500072,2021,1,375272
+user,pincode,122001,2021,1,361360
+user,pincode,110092,2021,1,359376
+user,pincode,110086,2021,1,310419
+user,pincode,121004,2021,1,306230
+user,pincode,560078,2021,1,305721
+user,state,maharashtra,2021,2,39664697
+user,state,uttar pradesh,2021,2,31651894
+user,state,karnataka,2021,2,25751023
+user,state,andhra pradesh,2021,2,19620905
+user,state,rajasthan,2021,2,18980985
+user,state,telangana,2021,2,18306880
+user,state,west bengal,2021,2,17979979
+user,state,tamil nadu,2021,2,17804542
+user,state,madhya pradesh,2021,2,15940935
+user,state,gujarat,2021,2,15735981
+user,district,bengaluru urban,2021,2,10604609
+user,district,pune,2021,2,6915820
+user,district,thane,2021,2,4290066
+user,district,jaipur,2021,2,4226231
+user,district,mumbai suburban,2021,2,4151227
+user,district,hyderabad,2021,2,3598337
+user,district,ahmadabad,2021,2,3209841
+user,district,rangareddy,2021,2,3097973
+user,district,north twenty four parganas,2021,2,2660664
+user,district,surat,2021,2,2633443
+user,pincode,201301,2021,2,577428
+user,pincode,110059,2021,2,485328
+user,pincode,560068,2021,2,455417
+user,pincode,421302,2021,2,424376
+user,pincode,500072,2021,2,398987
+user,pincode,122001,2021,2,385555
+user,pincode,110092,2021,2,383095
+user,pincode,110086,2021,2,332618
+user,pincode,121004,2021,2,328000
+user,pincode,560078,2021,2,325334
+user,state,maharashtra,2021,3,42581217
+user,state,uttar pradesh,2021,3,34151882
+user,state,karnataka,2021,3,27614221
+user,state,andhra pradesh,2021,3,21059898
+user,state,rajasthan,2021,3,20499465
+user,state,telangana,2021,3,19615278
+user,state,west bengal,2021,3,19323278
+user,state,tamil nadu,2021,3,19127440
+user,state,madhya pradesh,2021,3,17210233
+user,state,gujarat,2021,3,16946761
+user,district,bengaluru urban,2021,3,11321012
+user,district,pune,2021,3,7398336
+user,district,thane,2021,3,4597394
+user,district,jaipur,2021,3,4534297
+user,district,mumbai suburban,2021,3,4444495
+user,district,hyderabad,2021,3,3839513
+user,district,ahmadabad,2021,3,3445024
+user,district,rangareddy,2021,3,3310906
+user,district,north twenty four parganas,2021,3,2852030
+user,district,surat,2021,3,2830392
+user,pincode,201301,2021,3,618043
+user,pincode,110059,2021,3,520096
+user,pincode,560068,2021,3,486170
+user,pincode,421302,2021,3,456284
+user,pincode,500072,2021,3,425197
+user,pincode,122001,2021,3,412737
+user,pincode,110092,2021,3,409520
+user,pincode,110086,2021,3,357590
+user,pincode,121004,2021,3,352312
+user,pincode,560078,2021,3,346840
+user,state,maharashtra,2021,4,45482506
+user,state,uttar pradesh,2021,4,36617655
+user,state,karnataka,2021,4,29459646
+user,state,andhra pradesh,2021,4,22489029
+user,state,rajasthan,2021,4,21977202
+user,state,telangana,2021,4,20917649
+user,state,west bengal,2021,4,20644527
+user,state,tamil nadu,2021,4,20433142
+user,state,madhya pradesh,2021,4,18456243
+user,state,gujarat,2021,4,18139201
+user,district,bengaluru urban,2021,4,12038775
+user,district,pune,2021,4,7880431
+user,district,thane,2021,4,4906492
+user,district,jaipur,2021,4,4841883
+user,district,mumbai suburban,2021,4,4740546
+user,district,hyderabad,2021,4,4081185
+user,district,ahmadabad,2021,4,3679243
+user,district,rangareddy,2021,4,3523496
+user,district,north twenty four parganas,2021,4,3043008
+user,district,surat,2021,4,3026960
+user,pincode,201301,2021,4,659549
+user,pincode,110059,2021,4,555449
+user,pincode,560068,2021,4,517115
+user,pincode,421302,2021,4,488443
+user,pincode,500072,2021,4,451595
+user,pincode,122001,2021,4,440178
+user,pincode,110092,2021,4,436075
+user,pincode,110086,2021,4,382858
+user,pincode,121004,2021,4,376910
+user,pincode,560078,2021,4,368213
+user,state,maharashtra,2022,1,48227630
+user,state,uttar pradesh,2022,1,38999692
+user,state,karnataka,2022,1,31200349
+user,state,andhra pradesh,2022,1,23857951
+user,state,rajasthan,2022,1,23398857
+user,state,telangana,2022,1,22150612
+user,state,west bengal,2022,1,21919787
+user,state,tamil nadu,2022,1,21667020
+user,state,madhya pradesh,2022,1,19656147
+user,state,gujarat,2022,1,19265314
+user,district,bengaluru urban,2022,1,12707664
+user,district,pune,2022,1,8331582
+user,district,thane,2022,1,5196050
+user,district,jaipur,2022,1,5133527
+user,district,mumbai suburban,2022,1,5017556
+user,district,hyderabad,2022,1,4306136
+user,district,ahmadabad,2022,1,3897869
+user,district,rangareddy,2022,1,3722676
+user,district,north twenty four parganas,2022,1,3224459
+user,district,surat,2022,1,3210535
+user,pincode,201301,2022,1,698600
+user,pincode,110059,2022,1,588266
+user,pincode,560068,2022,1,545827
+user,pincode,421302,2022,1,518716
+user,pincode,500072,2022,1,476073
+user,pincode,122001,2022,1,465984
+user,pincode,110092,2022,1,460951
+user,pincode,110086,2022,1,406863
+user,pincode,121004,2022,1,400283
+user,pincode,560078,2022,1,388154
+user,state,maharashtra,2022,2,50802786
+user,state,uttar pradesh,2022,2,41247289
+user,state,karnataka,2022,2,32831447
+user,state,andhra pradesh,2022,2,25157264
+user,state,rajasthan,2022,2,24716181
+user,state,telangana,2022,2,23314363
+user,state,west bengal,2022,2,23124388
+user,state,tamil nadu,2022,2,22829720
+user,state,madhya pradesh,2022,2,20766417
+user,state,gujarat,2022,2,20321596
+user,district,bengaluru urban,2022,2,13342916
+user,district,pune,2022,2,8757249
+user,district,thane,2022,2,5471749
+user,district,jaipur,2022,2,5409763
+user,district,mumbai suburban,2022,2,5281053
+user,district,hyderabad,2022,2,4519625
+user,district,ahmadabad,2022,2,4105172
+user,district,rangareddy,2022,2,3911372
+user,district,north twenty four parganas,2022,2,3397791
+user,district,surat,2022,2,3385398
+user,pincode,201301,2022,2,735907
+user,pincode,110059,2022,2,619737
+user,pincode,560068,2022,2,573310
+user,pincode,421302,2022,2,547501
+user,pincode,500072,2022,2,499269
+user,pincode,122001,2022,2,490709
+user,pincode,110092,2022,2,484816
+user,pincode,110086,2022,2,429566
+user,pincode,121004,2022,2,422488
+user,pincode,560078,2022,2,407066
+user,state,maharashtra,2022,3,53432602
+user,state,uttar pradesh,2022,3,43537920
+user,state,karnataka,2022,3,34493994
+user,state,andhra pradesh,2022,3,26496330
+user,state,rajasthan,2022,3,26042948
+user,state,telangana,2022,3,24506111
+user,state,west bengal,2022,3,24372048
+user,state,tamil nadu,2022,3,24019964
+user,state,madhya pradesh,2022,3,21884220
+user,state,gujarat,2022,3,21394721
+user,district,bengaluru urban,2022,3,13997602
+user,district,pune,2022,3,9194074
+user,district,thane,2022,3,5757165
+user,district,jaipur,2022,3,5696726
+user,district,mumbai suburban,2022,3,5555095
+user,district,hyderabad,2022,3,4739891
+user,district,ahmadabad,2022,3,4319512
+user,district,rangareddy,2022,3,4105107
+user,district,north twenty four parganas,2022,3,3578500
+user,district,surat,2022,3,3567767
+user,pincode,201301,2022,3,774591
+user,pincode,110059,2022,3,652328
+user,pincode,560068,2022,3,601656
+user,pincode,421302,2022,3,577754
+user,pincode,500072,2022,3,523196
+user,pincode,122001,2022,3,516313
+user,pincode,110092,2022,3,509260
+user,pincode,110086,2022,3,453393
+user,pincode,121004,2022,3,445822
+user,pincode,201009,2022,3,428994
+user,state,maharashtra,2022,4,55954028
+user,state,uttar pradesh,2022,4,45648650
+user,state,karnataka,2022,4,36081698
+user,state,andhra pradesh,2022,4,27778016
+user,state,rajasthan,2022,4,27255927
+user,state,telangana,2022,4,25656381
+user,state,west bengal,2022,4,25536381
+user,state,tamil nadu,2022,4,25136112
+user,state,madhya pradesh,2022,4,22913924
+user,state,gujarat,2022,4,22412353
+user,district,bengaluru urban,2022,4,14654455
+user,district,pune,2022,4,9622338
+user,district,thane,2022,4,6042267
+user,district,jaipur,2022,4,5975863
+user,district,mumbai suburban,2022,4,5831539
+user,district,hyderabad,2022,4,4962214
+user,district,ahmadabad,2022,4,4530853
+user,district,rangareddy,2022,4,4296707
+user,district,north twenty four parganas,2022,4,3755017
+user,district,surat,2022,4,3747780
+user,pincode,201301,2022,4,814008
+user,pincode,110059,2022,4,685596
+user,pincode,560068,2022,4,630255
+user,pincode,421302,2022,4,608005
+user,pincode,500072,2022,4,547282
+user,pincode,122001,2022,4,542209
+user,pincode,110092,2022,4,534009
+user,pincode,110086,2022,4,477514
+user,pincode,121004,2022,4,468607
+user,pincode,201009,2022,4,451153
+user,state,maharashtra,2023,1,58470784
+user,state,uttar pradesh,2023,1,47806049
+user,state,karnataka,2023,1,37681426
+user,state,andhra pradesh,2023,1,29065863
+user,state,rajasthan,2023,1,28523031
+user,state,telangana,2023,1,26804259
+user,state,west bengal,2023,1,26732895
+user,state,tamil nadu,2023,1,26270663
+user,state,madhya pradesh,2023,1,24002818
+user,state,gujarat,2023,1,23436230
+user,district,bengaluru urban,2023,1,15290372
+user,district,pune,2023,1,10037022
+user,district,thane,2023,1,6314618
+user,district,jaipur,2023,1,6247095
+user,district,mumbai suburban,2023,1,6095695
+user,district,hyderabad,2023,1,5176899
+user,district,ahmadabad,2023,1,4734630
+user,district,rangareddy,2023,1,4483193
+user,district,north twenty four parganas,2023,1,3926974
+user,district,surat,2023,1,3919829
+user,pincode,201301,2023,1,851451
+user,pincode,110059,2023,1,716856
+user,pincode,560068,2023,1,658173
+user,pincode,421302,2023,1,636458
+user,pincode,500072,2023,1,570652
+user,pincode,122001,2023,1,566889
+user,pincode,110092,2023,1,557488
+user,pincode,110086,2023,1,500213
+user,pincode,121004,2023,1,490243
+user,pincode,201009,2023,1,472156
+user,state,maharashtra,2023,2,60766850
+user,state,uttar pradesh,2023,2,49829833
+user,state,karnataka,2023,2,39122314
+user,state,andhra pradesh,2023,2,30240061
+user,state,rajasthan,2023,2,29745609
+user,state,west bengal,2023,2,27827662
+user,state,telangana,2023,2,27814633
+user,state,tamil nadu,2023,2,27317599
+user,state,madhya pradesh,2023,2,25042930
+user,state,gujarat,2023,2,24396768
+user,district,bengaluru urban,2023,2,15812243
+user,district,pune,2023,2,10396344
+user,district,thane,2023,2,6552282
+user,district,jaipur,2023,2,6490210
+user,district,mumbai suburban,2023,2,6322778
+user,district,hyderabad,2023,2,5349842
+user,district,ahmadabad,2023,2,4913610
+user,district,rangareddy,2023,2,4638501
+user,district,north twenty four parganas,2023,2,4079270
+user,district,surat,2023,2,4076929
+user,pincode,201301,2023,2,883262
+user,pincode,110059,2023,2,744061
+user,pincode,560068,2023,2,680831
+user,pincode,421302,2023,2,662196
+user,pincode,500072,2023,2,589156
+user,pincode,122001,2023,2,587988
+user,pincode,110092,2023,2,577301
+user,pincode,110086,2023,2,520976
+user,pincode,121004,2023,2,509776
+user,pincode,201009,2023,2,490549
+user,state,maharashtra,2023,3,63150997
+user,state,uttar pradesh,2023,3,51870932
+user,state,karnataka,2023,3,40634390
+user,state,andhra pradesh,2023,3,31493897
+user,state,rajasthan,2023,3,30997182
+user,state,west bengal,2023,3,28966414
+user,state,telangana,2023,3,28896668
+user,state,tamil nadu,2023,3,28405436
+user,state,madhya pradesh,2023,3,26109033
+user,state,gujarat,2023,3,25383429
+user,district,bengaluru urban,2023,3,16382332
+user,district,pune,2023,3,10780092
+user,district,thane,2023,3,6802106
+user,district,jaipur,2023,3,6745507
+user,district,mumbai suburban,2023,3,6560867
+user,district,hyderabad,2023,3,5543537
+user,district,ahmadabad,2023,3,5105557
+user,district,rangareddy,2023,3,4809474
+user,district,north twenty four parganas,2023,3,4241525
+user,district,surat,2023,3,4238878
+user,pincode,201301,2023,3,916333
+user,pincode,110059,2023,3,772107
+user,pincode,560068,2023,3,703693
+user,pincode,421302,2023,3,688520
+user,pincode,122001,2023,3,609934
+user,pincode,500072,2023,3,609887
+user,pincode,110092,2023,3,598195
+user,pincode,110086,2023,3,540985
+user,pincode,121004,2023,3,529674
+user,pincode,201009,2023,3,509567
+user,state,maharashtra,2023,4,65422120
+user,state,uttar pradesh,2023,4,53799813
+user,state,karnataka,2023,4,42031396
+user,state,andhra pradesh,2023,4,32658698
+user,state,rajasthan,2023,4,32157348
+user,state,west bengal,2023,4,30064546
+user,state,telangana,2023,4,29902636
+user,state,tamil nadu,2023,4,29452801
+user,state,madhya pradesh,2023,4,27078072
+user,state,gujarat,2023,4,26312655
+user,district,bengaluru urban,2023,4,16895567
+user,district,pune,2023,4,11135186
+user,district,thane,2023,4,7044610
+user,district,jaipur,2023,4,6983265
+user,district,mumbai suburban,2023,4,6796218
+user,district,hyderabad,2023,4,5720710
+user,district,ahmadabad,2023,4,5282400
+user,district,rangareddy,2023,4,4964411
+user,district,north twenty four parganas,2023,4,4396190
+user,district,surat,2023,4,4396038
+user,pincode,201301,2023,4,948041
+user,pincode,110059,2023,4,798856
+user,pincode,560068,2023,4,727330
+user,pincode,421302,2023,4,714635
+user,pincode,122001,2023,4,630836
+user,pincode,500072,2023,4,628306
+user,pincode,110092,2023,4,617934
+user,pincode,110086,2023,4,561319
+user,pincode,121004,2023,4,549020
+user,pincode,201009,2023,4,527630
+user,state,maharashtra,2024,1,68016876
+user,state,uttar pradesh,2024,1,56028765
+user,state,karnataka,2024,1,43668141
+user,state,andhra pradesh,2024,1,34008709
+user,state,rajasthan,2024,1,33505514
+user,state,west bengal,2024,1,31306843
+user,state,telangana,2024,1,31082447
+user,state,tamil nadu,2024,1,30638750
+user,state,madhya pradesh,2024,1,28238554
+user,state,gujarat,2024,1,27381972
+user,district,bengaluru urban,2024,1,17506580
+user,district,pune,2024,1,11546171
+user,district,thane,2024,1,7314981
+user,district,jaipur,2024,1,7253881
+user,district,mumbai suburban,2024,1,7055629
+user,district,hyderabad,2024,1,5928930
+user,district,ahmadabad,2024,1,5485010
+user,district,rangareddy,2024,1,5149421
+user,district,north twenty four parganas,2024,1,4570438
+user,district,surat,2024,1,4569769
+user,pincode,201301,2024,1,984239
+user,pincode,110059,2024,1,829414
+user,pincode,560068,2024,1,753700
+user,pincode,421302,2024,1,743686
+user,pincode,122001,2024,1,654633
+user,pincode,500072,2024,1,650991
+user,pincode,110092,2024,1,640499
+user,pincode,110086,2024,1,583639
+user,pincode,121004,2024,1,570844
+user,pincode,201009,2024,1,548384
+user,state,maharashtra,2024,2,70597223
+user,state,uttar pradesh,2024,2,58199149
+user,state,karnataka,2024,2,45290606
+user,state,andhra pradesh,2024,2,35303719
+user,state,rajasthan,2024,2,34773619
+user,state,west bengal,2024,2,32540397
+user,state,telangana,2024,2,32232171
+user,state,tamil nadu,2024,2,31818880
+user,state,madhya pradesh,2024,2,29324466
+user,state,gujarat,2024,2,28439885
+user,district,bengaluru urban,2024,2,18127475
+user,district,pune,2024,2,11964579
+user,district,thane,2024,2,7591749
+user,district,jaipur,2024,2,7522194
+user,district,mumbai suburban,2024,2,7325715
+user,district,hyderabad,2024,2,6138190
+user,district,ahmadabad,2024,2,5693015
+user,district,rangareddy,2024,2,5331711
+user,district,surat,2024,2,4747919
+user,district,north twenty four parganas,2024,2,4746814
+user,pincode,201301,2024,2,1021560
+user,pincode,110059,2024,2,860657
+user,pincode,560068,2024,2,780422
+user,pincode,421302,2024,2,772632
+user,pincode,122001,2024,2,679107
+user,pincode,500072,2024,2,673094
+user,pincode,110092,2024,2,664004
+user,pincode,110086,2024,2,606637
+user,pincode,121004,2024,2,593014
+user,pincode,201009,2024,2,569781
+user,state,maharashtra,2024,3,69641161
+user,state,uttar pradesh,2024,3,67922000
+user,state,karnataka,2024,3,44548391
+user,state,rajasthan,2024,3,35583171
+user,state,west bengal,2024,3,33612828
+user,state,tamil nadu,2024,3,32965209
+user,state,bihar,2024,3,31899315
+user,state,madhya pradesh,2024,3,31764084
+user,state,telangana,2024,3,30776242
+user,state,andhra pradesh,2024,3,29145303
+user,district,bengaluru urban,2024,3,17566351
+user,district,pune,2024,3,12392676
+user,district,thane,2024,3,7103828
+user,district,mumbai suburban,2024,3,6688601
+user,district,rangareddy,2024,3,5769438
+user,district,hyderabad,2024,3,5757304
+user,district,ahmedabad,2024,3,5580316
+user,district,chennai,2024,3,5387490
+user,district,jaipur,2024,3,5219354
+user,district,surat,2024,3,4957655
+user,pincode,201301,2024,3,899384
+user,pincode,421302,2024,3,844375
+user,pincode,110059,2024,3,808649
+user,pincode,500072,2024,3,733364
+user,pincode,452001,2024,3,686231
+user,pincode,410501,2024,3,663831
+user,pincode,121004,2024,3,646607
+user,pincode,201009,2024,3,646266
+user,pincode,560068,2024,3,645173
+user,pincode,110092,2024,3,639422
+user,state,maharashtra,2024,4,71807805
+user,state,uttar pradesh,2024,4,70474113
+user,state,karnataka,2024,4,45917653
+user,state,rajasthan,2024,4,36828375
+user,state,west bengal,2024,4,34750181
+user,state,tamil nadu,2024,4,33966610
+user,state,bihar,2024,4,33345285
+user,state,madhya pradesh,2024,4,32876660
+user,state,telangana,2024,4,31726856
+user,state,andhra pradesh,2024,4,29984431
+user,district,bengaluru urban,2024,4,18101416
+user,district,pune,2024,4,12734314
+user,district,thane,2024,4,7300941
+user,district,mumbai suburban,2024,4,6875379
+user,district,rangareddy,2024,4,5988320
+user,district,hyderabad,2024,4,5916910
+user,district,ahmedabad,2024,4,5702922
+user,district,chennai,2024,4,5541760
+user,district,jaipur,2024,4,5371681
+user,district,north twenty four parganas,2024,4,5085095
+user,pincode,201301,2024,4,964283
+user,pincode,421302,2024,4,871910
+user,pincode,110059,2024,4,826819
+user,pincode,500072,2024,4,755978
+user,pincode,452001,2024,4,709324
+user,pincode,410501,2024,4,683435
+user,pincode,560068,2024,4,663903
+user,pincode,121004,2024,4,661818
+user,pincode,201009,2024,4,660474
+user,pincode,110092,2024,4,654020
